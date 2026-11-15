@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-labelledby="title">
+  <title id="title">Fotografía pendiente</title>
+  <rect width="800" height="900" fill="#f2e9e1"/>
+  <path d="M299 285c14-38 49-64 101-64s87 26 101 64l90 75-56 71-45-35v279H310V396l-45 35-56-71 90-75Z" fill="#d8c1ae"/>
+  <path d="M362 226c9 38 66 38 76 0" fill="none" stroke="#f2e9e1" stroke-width="17"/>
+  <text x="400" y="760" text-anchor="middle" fill="#806e61" font-family="Arial,sans-serif" font-size="28">Próximamente</text>
+</svg>
